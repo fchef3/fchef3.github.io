@@ -14,12 +14,15 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+lang: en
+
 title: FChef3
 
-tagline: Writeups, outils et recherche en sécurité offensive
+tagline: Offensive security write-ups, tools and research
 
-description: >- # utilisé par le SEO et le flux Atom
-  Blog de sécurité offensive : writeups CTF, outils, recherche de vulnérabilités et homelab.
+description: >-
+  Offensive security blog: CTF write-ups, tools, vulnerability research and homelab notes.
+
 url: "https://fchef3.github.io"
 
 github:
