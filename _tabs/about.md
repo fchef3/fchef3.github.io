@@ -3,9 +3,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **FChef3**, a cybersecurity engineer with a passion for offensive security, from pentesting and red teaming to low-level programming. This blog is where I document my personal projects and share what I learn along the way.
+Hi, I'm **FChef3**, a cybersecurity engineer with a passion for offensive security, from pentesting and red teaming to low-level programming.
 
-I'm currently completing a Specialized Master's (MS) in Cybersecurity & Cyberdefense at [Télécom Paris](https://www.telecom-paris.fr/). Before that, I earned an engineering degree in Networks and Cybersecurity from ESTEM Casablanca.
+I'm currently completing a Specialized Master's (MS) in Cybersecurity & Cyberdefense at [Télécom Paris](https://www.telecom-paris.fr/).
 
 Alongside my studies, I practice on CTF platforms, mainly Hack The Box and TryHackMe, to sharpen my pentesting and red teaming skills. I also enjoy working close to the machine, and I write code in Python, C, C++ and C#.
 
