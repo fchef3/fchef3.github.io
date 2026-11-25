@@ -3,29 +3,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **FChef3**, a cybersecurity engineer passionate about **offensive security**, from pentesting and red teaming to low-level programming. This blog is where I document my personal projects and what I learn along the way.
+Hi, I'm **FChef3**, a cybersecurity engineer with a passion for offensive security, from pentesting and red teaming to low-level programming. This blog is where I document my personal projects and share what I learn along the way.
 
-## Background
+I'm currently completing a Specialized Master's (MS) in Cybersecurity & Cyberdefense at [Télécom Paris](https://www.telecom-paris.fr/). Before that, I earned an engineering degree in Networks and Cybersecurity from ESTEM Casablanca.
 
-- **Master's student in Cybersecurity & Cyberdefense** at [Télécom Paris](https://www.telecom-paris.fr/)
-- **Engineering degree in Networks and Cybersecurity** from ESTEM Casablanca
+Alongside my studies, I practice on CTF platforms, mainly Hack The Box and TryHackMe, to sharpen my pentesting and red teaming skills. I also enjoy working close to the machine, and I write code in Python, C, C++ and C#.
 
-## What I do
+Here you'll find write-ups of machines and CTF challenges, tools I build in my spare time, vulnerability research (CVE analysis and responsible disclosure) and notes from my homelab.
 
-- Pentesting and Red Teaming
-- Low-level programming
-- CTFs, mainly on Hack The Box and TryHackMe
-
-**Languages:** Python, C, C++, C#
-
-## What you'll find here
-
-- **Write-ups** of machines and CTF challenges
-- **Homelab** notes from my practice labs
-- **Tools** I build in my spare time
-- **Research** on vulnerabilities (CVE analysis, responsible disclosure)
-
-## Achivements
+## Achievements
 
 ### Hack The Box
 
@@ -55,12 +41,12 @@ Hi, I'm **FChef3**, a cybersecurity engineer passionate about **offensive securi
   </a>
 </div>
 
-## Mes profils
+## Find me
 
-- Hack The Box : [FChef3 sur HTB](https://app.hackthebox.com/users/1868096)
-- TryHackMe : [FChef3 sur TryHackMe](https://tryhackme.com/p/FChef3)
-- GitHub : [abasse7](https://github.com/abasse7)
-- LinkedIn : [Abasse S.](https://www.linkedin.com/in/abasse-s-b49521243)
+- Hack The Box: [FChef3](https://app.hackthebox.com/users/1868096)
+- TryHackMe: [FChef3](https://tryhackme.com/p/FChef3)
+- GitHub: [abasse7](https://github.com/abasse7)
+- LinkedIn: [Abasse S.](https://www.linkedin.com/in/abasse-s-b49521243)
 
-> Tous les tests décrits sur ce blog sont réalisés sur mes propres labs, sur des plateformes d'entraînement ou avec une autorisation explicite.
+> Everything described on this blog is performed in my own labs, on training platforms, or with explicit authorization.
 {: .prompt-info }
