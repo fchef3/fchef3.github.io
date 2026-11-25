@@ -14,30 +14,30 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TON_PSEUDO # TODO : nom affiché dans la barre latérale
+title: FChef3
 
-tagline: Writeups, outils et recherche en sécurité offensive # TODO : ta devise
+tagline: Writeups, outils et recherche en sécurité offensive
 
 description: >- # utilisé par le SEO et le flux Atom
   Blog de sécurité offensive : writeups CTF, outils, recherche de vulnérabilités et homelab.
-url: "https://TON_USER_GITHUB.github.io" # TODO : sans slash final ; remplace par ton domaine plus tard
+url: "https://fchef3.github.io"
 
 github:
-  username: TON_USER_GITHUB # TODO
+  username: abasse7
 
 twitter:
-  username: TON_USER_X # TODO (ou laisse vide)
+  username: AbasseSidi97188
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: TON_NOM_OU_PSEUDO # TODO : auteur affiché
-  email: # TODO : adresse de contact (laisse vide si tu ne veux pas l'afficher)
+  name: FChef3
+  email: fchef3rd@gmail.com
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/TON_USER_X
-    - https://github.com/TON_USER_GITHUB
+    - https://x.com/AbasseSidi97188
+    - https://github.com/abasse7
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

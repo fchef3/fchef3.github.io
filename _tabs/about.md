@@ -3,30 +3,29 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Salut ! Je suis **TON_PSEUDO**, étudiant·e en cybersécurité à TON_ECOLE, avec un intérêt particulier pour la **sécurité offensive**.
+Salut ! Je suis **FChef3**, passionné de **sécurité offensive**. Ce blog me sert à documenter mes projets personnels et ce que j'apprends en pratiquant.
 
 ## Ce que tu trouveras ici
 
-- **Writeups** de CTF et de machines (HTB, Root-Me…)
-- **Outils** que je développe pendant mon temps libre
+- **Writeups** de machines et de CTF
+- **Outils** que je développe sur mon temps libre
 - **Recherche** de vulnérabilités (analyse de CVE, divulgation responsable)
-- **Homelab** : mes labs Active Directory, Windows et web
+- **Homelab** : mes labs d'entraînement
 
+## Mes profils
+
+- Hack The Box : [FChef3 sur HTB](https://app.hackthebox.com/users/1868096)
+- TryHackMe : [FChef3 sur TryHackMe](https://tryhackme.com/p/FChef3)
+- GitHub : [abasse7](https://github.com/abasse7)
+- LinkedIn : [Abasse S.](https://www.linkedin.com/in/abasse-s-b49521243)
+
+<!--
+À compléter quand tu veux (non affiché tant que c'est en commentaire) :
 ## Parcours
-
-- TON_PARCOURS (école, stage, alternance…)
-- Domaines préférés : Windows / Active Directory, pentest web, mathématiques
-
+- École / stage / alternance
 ## Certifications et réalisations
+- Certifs, ProLabs, classements CTF
+-->
 
-- TODO : certifications, ProLabs terminés, classements CTF
-- TODO : lien vers ton profil HTB / Root-Me
-
-## Contact
-
-- GitHub : TODO
-- LinkedIn : TODO
-- Email : TODO
-
-> Tous les tests décrits sur ce blog sont réalisés sur mes propres labs, sur des plateformes d'entraînement ou dans le cadre d'une autorisation explicite.
+> Tous les tests décrits sur ce blog sont réalisés sur mes propres labs, sur des plateformes d'entraînement ou avec une autorisation explicite.
 {: .prompt-info }

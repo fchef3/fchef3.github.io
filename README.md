@@ -4,22 +4,22 @@ Jekyll + thème Chirpy, déployé sur GitHub Pages.
 
 ## Mise en ligne
 
-1. Crée un dépôt GitHub **public** nommé `TON_USER_GITHUB.github.io`.
+1. Crée un dépôt GitHub **public** nommé `fchef3.github.io`.
 2. Dézippe cette archive, puis dans le dossier :
    ```bash
    git init -b main
    git add .
    git commit -m "Initial commit"
-   git remote add origin git@github.com:TON_USER_GITHUB/TON_USER_GITHUB.github.io.git
+   git remote add origin git@github.com:fchef3/fchef3.github.io.git
    git push -u origin main
    ```
 3. Sur GitHub : *Settings → Pages → Build and deployment → Source : GitHub Actions*.
 4. Le workflow `pages-deploy.yml` construit et publie le site à chaque push.
 
-## À personnaliser (cherche `TON_` et `TODO`)
+## À personnaliser plus tard
 
-- `_config.yml` : titre, tagline, pseudo, liens, URL
-- `_tabs/about.md` : ta présentation
+- `_config.yml` : titre, tagline, liens, URL (déjà rempli)
+- `_tabs/about.md` : parcours et certifications (bloc en commentaire à décommenter)
 - `_data/contact.yml` : icônes de contact
 - Avatar : dépose une image dans `assets/img/` puis renseigne `avatar:` dans `_config.yml`
 
