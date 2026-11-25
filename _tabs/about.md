@@ -3,14 +3,27 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Salut ! Je suis **FChef3**, passionné de **sécurité offensive**. Ce blog me sert à documenter mes projets personnels et ce que j'apprends en pratiquant.
+Hi, I'm **FChef3**, a cybersecurity engineer passionate about **offensive security**, from pentesting and red teaming to low-level programming. This blog is where I document my personal projects and what I learn along the way.
 
-## Ce que vous trouverez ici
+## Background
 
-- **Writeups** de machines et de CTF
-- **Homelab** : mes labs d'entraînement
-- **Outils** que je développe sur mon temps libre
-- **Recherche** de vulnérabilités (analyse de CVE, divulgation responsable)
+- **Master's student in Cybersecurity & Cyberdefense** at [Télécom Paris](https://www.telecom-paris.fr/)
+- **Engineering degree in Networks and Cybersecurity** from ESTEM Casablanca
+
+## What I do
+
+- Pentesting and Red Teaming
+- Low-level programming
+- CTFs, mainly on Hack The Box and TryHackMe
+
+**Languages:** Python, C, C++, C#
+
+## What you'll find here
+
+- **Write-ups** of machines and CTF challenges
+- **Homelab** notes from my practice labs
+- **Tools** I build in my spare time
+- **Research** on vulnerabilities (CVE analysis, responsible disclosure)
 
 ## Achivements
 
@@ -48,14 +61,6 @@ Salut ! Je suis **FChef3**, passionné de **sécurité offensive**. Ce blog me s
 - TryHackMe : [FChef3 sur TryHackMe](https://tryhackme.com/p/FChef3)
 - GitHub : [abasse7](https://github.com/abasse7)
 - LinkedIn : [Abasse S.](https://www.linkedin.com/in/abasse-s-b49521243)
-
-<!--
-À compléter quand tu veux (non affiché tant que c'est en commentaire) :
-## Parcours
-- École / stage / alternance
-## Certifications et réalisations
-- Certifs, ProLabs, classements CTF
--->
 
 > Tous les tests décrits sur ce blog sont réalisés sur mes propres labs, sur des plateformes d'entraînement ou avec une autorisation explicite.
 {: .prompt-info }
